@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ ITZ FIZZ — Scroll-Driven Hypercar Hero Experience
 
 A premium, modern, scroll-driven hero section built with **Next.js 14**, **React**, **Tailwind CSS**, and **GSAP ScrollTrigger**. Inspired by aerodynamic hyper-performance engineering and high-end automotive design.
@@ -151,3 +152,6 @@ git push -u origin main
 ## 🛡️ License
 
 MIT License © 2026 ITZ FIZZ.
+=======
+# itz-fizz-hero_main
+>>>>>>> 52afddfbed990f428696224b53e28a257e463d7e
